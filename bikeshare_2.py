@@ -33,7 +33,7 @@ def ask_for_input(item, output, items):
 
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyze.
+    Collects the user inputs for city, month, and day to analyze.
 
     Returns:
         (str) city - name of the city to analyze
