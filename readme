@@ -1,0 +1,3 @@
+1- https://datascienceparichay.com/article/filter-dataframe-on-list-of-values/#:~:text=To%20filter%20rows%20of%20a%20dataframe%20on%20a,the%20syntax%3A%20df_filtered%20%3D%20df%20%5Bdf%20%5B%27Col1%27%5D.isin%20%28allowed_values%29%5D
+2- https://datascientyst.com/pandas-groupby-count/#:~:text=Alternative%20solution%20is%20to%20use%20groupby%20and%20size,below%20demonstrate%20the%20usage%20of%20size%3A%20df.groupby%28%5B%27publication%27%2C%20%27date_m%27%5D%29.size%28%29
+3- https://datagy.io/pandas-extract-date-from-datetime/#:~:text=The%20Quick%20Answer%3A%20Use%20df%20%5B%E2%80%98date_column%E2%80%99%5D.dt.date%20To%20Extract,Extract%20a%20Date%20from%20a%20Pandas%20Datetime%20Column
