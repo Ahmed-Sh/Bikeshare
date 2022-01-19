@@ -192,6 +192,8 @@ def main():
                     break
                 else:
                     print(df[n: m])
+            else:
+                break
             answer = input("Do u want to see the next 5 Rows? \n "
                            "Type 'yes' to continue or press any key to move on: ").lower()
             n += 5
